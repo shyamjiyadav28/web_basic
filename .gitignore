@@ -1,0 +1,6 @@
+node_modules/
+dist/
+server/restaurant.db
+server/restaurant.db-shm
+server/restaurant.db-wal
+
