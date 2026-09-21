@@ -1,0 +1,10 @@
+{
+  "name": "saffron-ember-restaurant",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "node ./node_modules/vite/bin/vite.js", "server": "node server/index.js", "build": "node ./node_modules/vite/bin/vite.js build", "preview": "node ./node_modules/vite/bin/vite.js preview" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "framer-motion": "latest", "lucide-react": "latest", "express": "^5.1.0", "better-sqlite3": "^12.4.1" },
+  "devDependencies": { "tailwindcss": "^3.4.17", "postcss": "^8.5.3", "autoprefixer": "^10.4.21" }
+}
+
